@@ -7,7 +7,7 @@ It helps organizations make data-driven HR decisions by visualizing key trends a
 
 
 
-# 📊 Key Metrics (KPIs)
+# Key Metrics (KPIs)
 
 *  **Total Employees:** 11,428
 *  **Average Working Hours / Month:** 201.05
